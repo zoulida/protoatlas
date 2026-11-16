@@ -1,0 +1,14 @@
+{
+  "全维 384": {
+    "hit1": 0.9542,
+    "hit3_dedup": 0.9938,
+    "hit5_dedup": 0.9984,
+    "mean_distinct_in_top3": 1.0288
+  },
+  "PCA-16": {
+    "hit1": 0.9422,
+    "hit3_dedup": 0.9918,
+    "hit5_dedup": 0.9978,
+    "mean_distinct_in_top3": 1.024
+  }
+}

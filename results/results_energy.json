@@ -1,0 +1,63 @@
+{
+  "CIFAR-100 近域|MSP": {
+    "auroc": 0.4317565272765867,
+    "block_at_5frr": 0.0
+  },
+  "CIFAR-100 近域|margin": {
+    "auroc": 0.9156169603056676,
+    "block_at_5frr": 0.6275
+  },
+  "CIFAR-100 近域|energy": {
+    "auroc": 0.9165648482275526,
+    "block_at_5frr": 0.6295
+  },
+  "CIFAR-100 近域|kNN 距离": {
+    "auroc": 0.9301685417108894,
+    "block_at_5frr": 0.6865
+  },
+  "CIFAR-100 近域|energy+kNN": {
+    "auroc": 0.9509877945234557,
+    "block_at_5frr": 0.7465
+  },
+  "MNIST 远域|MSP": {
+    "auroc": 0.2064946932710677,
+    "block_at_5frr": 0.0
+  },
+  "MNIST 远域|margin": {
+    "auroc": 0.9810148588410104,
+    "block_at_5frr": 0.9625
+  },
+  "MNIST 远域|energy": {
+    "auroc": 0.9794156230099766,
+    "block_at_5frr": 0.9525
+  },
+  "MNIST 远域|kNN 距离": {
+    "auroc": 0.991316068775207,
+    "block_at_5frr": 0.983
+  },
+  "MNIST 远域|energy+kNN": {
+    "auroc": 0.9971308639354701,
+    "block_at_5frr": 0.999
+  },
+  "路由错投 C 象限|MSP": {
+    "auroc": 0.6193349655913316,
+    "block_at_5frr": 0.0
+  },
+  "路由错投 C 象限|margin": {
+    "auroc": 0.8114255899381179,
+    "block_at_5frr": 0.37786259541984735
+  },
+  "路由错投 C 象限|energy": {
+    "auroc": 0.8132784890324901,
+    "block_at_5frr": 0.3893129770992366
+  },
+  "路由错投 C 象限|kNN 距离": {
+    "auroc": 0.8187764222438633,
+    "block_at_5frr": 0.3549618320610687
+  },
+  "路由错投 C 象限|energy+kNN": {
+    "auroc": 0.85582225131696,
+    "block_at_5frr": 0.3931297709923664
+  },
+  "未标定_energy_auroc": 0.9226029505412864
+}

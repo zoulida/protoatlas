@@ -1,0 +1,50 @@
+{
+  "10": {
+    "shots_per_class": 10,
+    "samples_per_node": 20,
+    "route_top1": 0.9682,
+    "E0": 0.9552,
+    "E1": 0.9546,
+    "gain_pt": -0.06
+  },
+  "25": {
+    "shots_per_class": 25,
+    "samples_per_node": 50,
+    "route_top1": 0.9682,
+    "E0": 0.9642,
+    "E1": 0.961,
+    "gain_pt": -0.32
+  },
+  "50": {
+    "shots_per_class": 50,
+    "samples_per_node": 100,
+    "route_top1": 0.9682,
+    "E0": 0.966,
+    "E1": 0.9656,
+    "gain_pt": -0.04
+  },
+  "100": {
+    "shots_per_class": 100,
+    "samples_per_node": 200,
+    "route_top1": 0.9682,
+    "E0": 0.9676,
+    "E1": 0.9678,
+    "gain_pt": 0.02
+  },
+  "200": {
+    "shots_per_class": 200,
+    "samples_per_node": 400,
+    "route_top1": 0.9682,
+    "E0": 0.968,
+    "E1": 0.9684,
+    "gain_pt": 0.04
+  },
+  "300": {
+    "shots_per_class": 300,
+    "samples_per_node": 600,
+    "route_top1": 0.9682,
+    "E0": 0.9686,
+    "E1": 0.969,
+    "gain_pt": 0.04
+  }
+}

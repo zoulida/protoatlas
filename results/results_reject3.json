@@ -1,0 +1,26 @@
+{
+  "cifar100_A": {
+    "auroc": 0.9276477,
+    "block_at_5frr": 0.679
+  },
+  "cifar100_B": {
+    "auroc": 0.4769885,
+    "block_at_5frr": 0.427
+  },
+  "cifar100_C": {
+    "auroc": 0.9060321,
+    "block_at_5frr": 0.586
+  },
+  "mnist_A": {
+    "auroc": 0.9958559,
+    "block_at_5frr": 0.981
+  },
+  "mnist_B": {
+    "auroc": 0.8823855,
+    "block_at_5frr": 0.86
+  },
+  "mnist_C": {
+    "auroc": 0.989015,
+    "block_at_5frr": 0.9955
+  }
+}

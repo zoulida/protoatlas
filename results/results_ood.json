@@ -1,0 +1,18 @@
+{
+  "cifar100": {
+    "block_margin": 0.06576666666666667,
+    "block_geo": 0.0,
+    "auroc_margin": 0.5975214145,
+    "auroc_geo": 0.24644404166666667,
+    "id_frr_margin": 0.05000000000000001,
+    "id_frr_geo": 0.05000000000000001
+  },
+  "mnist": {
+    "block_margin": 0.09105,
+    "block_geo": 0.0,
+    "auroc_margin": 0.72183972225,
+    "auroc_geo": 0.20984922225,
+    "id_frr_margin": 0.05000000000000001,
+    "id_frr_geo": 0.05000000000000001
+  }
+}

@@ -1,0 +1,16 @@
+# ProtoAtlas - reference implementation
+# Python 3.13 was used for all reported experiments.
+#
+# CUDA build: torch 2.6.0+cu124 was used. Install the wheel matching your
+# own CUDA driver, e.g.
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+# A CPU-only build also runs, but the feature-extraction step becomes slow.
+
+numpy==2.4.6
+pandas==3.0.3
+pyarrow>=15.0
+torch==2.6.0
+torchvision==0.21.0
+pillow>=10.0
+matplotlib>=3.8
+scipy>=1.11

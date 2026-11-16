@@ -1,0 +1,10 @@
+ProtoAtlas
+Copyright 2026 The ProtoAtlas Authors
+
+This product includes software developed by Meta Platforms, Inc.
+as part of the DINOv2 project (https://github.com/facebookresearch/dinov2),
+redistributed under the Apache License 2.0 in third_party/dinov2/.
+
+The datasets used in the accompanying experiments (CIFAR-10, CIFAR-100 and
+ImageNet-1k) are not redistributed with this repository and remain subject to
+their original terms of use.

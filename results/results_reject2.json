@@ -1,0 +1,26 @@
+{
+  "geo-p95": {
+    "correct": 0.925,
+    "dangerous": 0.057,
+    "all_rejected": 0.018,
+    "wrong_blocked": 0.0056
+  },
+  "head-p90": {
+    "correct": 0.8886,
+    "dangerous": 0.061,
+    "all_rejected": 0.0504,
+    "wrong_blocked": 0.0266
+  },
+  "head-p95": {
+    "correct": 0.9248,
+    "dangerous": 0.0576,
+    "all_rejected": 0.0176,
+    "wrong_blocked": 0.0176
+  },
+  "head-p99": {
+    "correct": 0.9428,
+    "dangerous": 0.0566,
+    "all_rejected": 0.0006,
+    "wrong_blocked": 0.0054
+  }
+}

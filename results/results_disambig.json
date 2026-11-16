@@ -1,0 +1,38 @@
+{
+  "hard（问1个硬答）": {
+    "coverage": 0.9444,
+    "error": 0.0556,
+    "unknown": 0.0,
+    "asked": 1.0
+  },
+  "reject_only（拒就弃）": {
+    "coverage": 0.9108,
+    "error": 0.039,
+    "unknown": 0.0502,
+    "asked": 1.0
+  },
+  "fallback3（依次问3个）": {
+    "coverage": 0.9208,
+    "error": 0.0474,
+    "unknown": 0.0318,
+    "asked": 1.086
+  },
+  "fallback10（问10个类）": {
+    "coverage": 0.9272,
+    "error": 0.0498,
+    "unknown": 0.023,
+    "asked": 1.2712
+  },
+  "vote3（3个投票）": {
+    "coverage": 0.413,
+    "error": 0.0426,
+    "unknown": 0.7872,
+    "asked": 3.0
+  },
+  "soft_top3": {
+    "coverage": 0.9918,
+    "error": 0.0,
+    "unknown": 0.008199999999999985,
+    "asked": 3.0
+  }
+}

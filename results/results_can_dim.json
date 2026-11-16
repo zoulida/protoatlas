@@ -1,0 +1,345 @@
+{
+  "rows_a": [
+    {
+      "d": 2,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 2,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 2.0,
+      "per_zone_cut_max": 2,
+      "side_mean": 0.1025,
+      "side_p50": 0.125,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.011,
+      "seg_nonzero": [
+        16,
+        8
+      ]
+    },
+    {
+      "d": 2,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 2,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 2.0,
+      "per_zone_cut_max": 2,
+      "side_mean": 0.031625,
+      "side_p50": 0.03125,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.001,
+      "seg_nonzero": [
+        32,
+        32
+      ]
+    },
+    {
+      "d": 3,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 3,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 3.0,
+      "per_zone_cut_max": 3,
+      "side_mean": 0.22,
+      "side_p50": 0.25,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.0085,
+      "seg_nonzero": [
+        8,
+        4,
+        4
+      ]
+    },
+    {
+      "d": 3,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 3,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 3.0,
+      "per_zone_cut_max": 3,
+      "side_mean": 0.10466666666666667,
+      "side_p50": 0.125,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.0015,
+      "seg_nonzero": [
+        16,
+        8,
+        8
+      ]
+    },
+    {
+      "d": 4,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 4,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 4.0,
+      "per_zone_cut_max": 4,
+      "side_mean": 0.33,
+      "side_p50": 0.25,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.011,
+      "seg_nonzero": [
+        4,
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "d": 4,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 4,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 4.0,
+      "per_zone_cut_max": 4,
+      "side_mean": 0.18825,
+      "side_p50": 0.25,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.002,
+      "seg_nonzero": [
+        8,
+        8,
+        4,
+        4
+      ]
+    },
+    {
+      "d": 8,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 7,
+      "utilization": 0.875,
+      "per_zone_cut_mean": 6.72,
+      "per_zone_cut_max": 7,
+      "side_mean": 0.58,
+      "side_p50": 0.5,
+      "dims_untouched_ratio": 0.125,
+      "fully_overlap_ratio": 0.0125,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 8,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 8,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 8.0,
+      "per_zone_cut_max": 8,
+      "side_mean": 0.43825,
+      "side_p50": 0.5,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.002,
+      "seg_nonzero": [
+        4,
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 10,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 7,
+      "utilization": 0.7,
+      "per_zone_cut_mean": 6.72,
+      "per_zone_cut_max": 7,
+      "side_mean": 0.664,
+      "side_p50": 0.5,
+      "dims_untouched_ratio": 0.3,
+      "fully_overlap_ratio": 0.007,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 10,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 10,
+      "utilization": 1.0,
+      "per_zone_cut_mean": 9.976,
+      "per_zone_cut_max": 10,
+      "side_mean": 0.5012,
+      "side_p50": 0.5,
+      "dims_untouched_ratio": 0.0,
+      "fully_overlap_ratio": 0.0005,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 16,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 7,
+      "utilization": 0.4375,
+      "per_zone_cut_mean": 6.72,
+      "per_zone_cut_max": 7,
+      "side_mean": 0.79,
+      "side_p50": 1.0,
+      "dims_untouched_ratio": 0.5625,
+      "fully_overlap_ratio": 0.0095,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 16,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 10,
+      "utilization": 0.625,
+      "per_zone_cut_mean": 9.976,
+      "per_zone_cut_max": 10,
+      "side_mean": 0.68825,
+      "side_p50": 0.5,
+      "dims_untouched_ratio": 0.375,
+      "fully_overlap_ratio": 0.002,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 64,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 7,
+      "utilization": 0.109375,
+      "per_zone_cut_mean": 6.72,
+      "per_zone_cut_max": 7,
+      "side_mean": 0.9475,
+      "side_p50": 1.0,
+      "dims_untouched_ratio": 0.890625,
+      "fully_overlap_ratio": 0.0085,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 64,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 10,
+      "utilization": 0.15625,
+      "per_zone_cut_mean": 9.976,
+      "per_zone_cut_max": 10,
+      "side_mean": 0.9220625,
+      "side_p50": 1.0,
+      "dims_untouched_ratio": 0.84375,
+      "fully_overlap_ratio": 0.0005,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 384,
+      "m": 100,
+      "zones": 100,
+      "touched_dims": 7,
+      "utilization": 0.018229166666666668,
+      "per_zone_cut_mean": 6.72,
+      "per_zone_cut_max": 7,
+      "side_mean": 0.99125,
+      "side_p50": 1.0,
+      "dims_untouched_ratio": 0.9817708333333334,
+      "fully_overlap_ratio": 0.009,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "d": 384,
+      "m": 1000,
+      "zones": 1000,
+      "touched_dims": 10,
+      "utilization": 0.026041666666666668,
+      "per_zone_cut_mean": 9.976,
+      "per_zone_cut_max": 10,
+      "side_mean": 0.9870104166666667,
+      "side_p50": 1.0,
+      "dims_untouched_ratio": 0.9739583333333334,
+      "fully_overlap_ratio": 0.0015,
+      "seg_nonzero": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    }
+  ]
+}

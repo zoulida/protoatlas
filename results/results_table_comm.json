@@ -1,0 +1,50 @@
+[
+  {
+    "M": 100,
+    "d": 384,
+    "kappa": 16,
+    "rounds": 6,
+    "exch_total": 600,
+    "exch_per_node": 6.0,
+    "msg_b": 1544,
+    "per_node_kb": 289.5,
+    "total_mb": 28.271484375,
+    "avg_deg": 7.14
+  },
+  {
+    "M": 300,
+    "d": 384,
+    "kappa": 16,
+    "rounds": 8,
+    "exch_total": 2400,
+    "exch_per_node": 8.0,
+    "msg_b": 1544,
+    "per_node_kb": 386.0,
+    "total_mb": 113.0859375,
+    "avg_deg": 14.116666666666667
+  },
+  {
+    "M": 1000,
+    "d": 384,
+    "kappa": 16,
+    "rounds": 33,
+    "exch_total": 33000,
+    "exch_per_node": 33.0,
+    "msg_b": 1544,
+    "per_node_kb": 1592.25,
+    "total_mb": 1554.931640625,
+    "avg_deg": 15.412
+  },
+  {
+    "M": 3000,
+    "d": 384,
+    "kappa": 16,
+    "rounds": 30,
+    "exch_total": 90000,
+    "exch_per_node": 30.0,
+    "msg_b": 1544,
+    "per_node_kb": 1447.5,
+    "total_mb": 4240.72265625,
+    "avg_deg": 15.900666666666666
+  }
+]

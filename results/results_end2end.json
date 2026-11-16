@@ -1,0 +1,40 @@
+{
+  "none": {
+    "correct": 0.9422,
+    "dangerous": 0.0578,
+    "all_rejected": 0.0,
+    "wrong_blocked": 0.0
+  },
+  "proto": {
+    "correct": 0.9202,
+    "dangerous": 0.0552,
+    "all_rejected": 0.0246,
+    "wrong_blocked": 0.007
+  },
+  "knn": {
+    "correct": 0.9164,
+    "dangerous": 0.0518,
+    "all_rejected": 0.0318,
+    "wrong_blocked": 0.017
+  },
+  "knn_pass80": {
+    "correct": 0.7856,
+    "dangerous": 0.0408,
+    "all_rejected": 0.1736
+  },
+  "knn_pass90": {
+    "correct": 0.8772,
+    "dangerous": 0.0464,
+    "all_rejected": 0.0764
+  },
+  "knn_pass95": {
+    "correct": 0.9164,
+    "dangerous": 0.0518,
+    "all_rejected": 0.0318
+  },
+  "knn_pass99": {
+    "correct": 0.941,
+    "dangerous": 0.0538,
+    "all_rejected": 0.0052
+  }
+}

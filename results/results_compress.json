@@ -1,0 +1,130 @@
+[
+  {
+    "method": "全维 384 f32",
+    "bytes": 1536,
+    "nn1": 0.947,
+    "top3": 0.9366666666666666,
+    "top10_overlap": 1.0,
+    "note": "基线，无压缩"
+  },
+  {
+    "method": "PCA-8 f32",
+    "bytes": 32,
+    "nn1": 0.905,
+    "top3": 0.898,
+    "top10_overlap": 0.1688,
+    "note": ""
+  },
+  {
+    "method": "PCA-16 f32",
+    "bytes": 64,
+    "nn1": 0.944,
+    "top3": 0.933,
+    "top10_overlap": 0.3195,
+    "note": ""
+  },
+  {
+    "method": "PCA-32 f32",
+    "bytes": 128,
+    "nn1": 0.94,
+    "top3": 0.9366666666666668,
+    "top10_overlap": 0.48,
+    "note": ""
+  },
+  {
+    "method": "PCA-64 f32",
+    "bytes": 256,
+    "nn1": 0.946,
+    "top3": 0.9383333333333332,
+    "top10_overlap": 0.6337,
+    "note": ""
+  },
+  {
+    "method": "PCA-128 f32",
+    "bytes": 512,
+    "nn1": 0.946,
+    "top3": 0.9393333333333332,
+    "top10_overlap": 0.7882,
+    "note": ""
+  },
+  {
+    "method": "PCA-16 int16",
+    "bytes": 32,
+    "nn1": 0.939,
+    "top3": 0.9286666666666668,
+    "top10_overlap": 0.30490000000000006,
+    "note": "每维 16 位，1%截尾"
+  },
+  {
+    "method": "PCA-32 int16",
+    "bytes": 64,
+    "nn1": 0.922,
+    "top3": 0.918,
+    "top10_overlap": 0.4491,
+    "note": "每维 16 位，1%截尾"
+  },
+  {
+    "method": "PCA-16 int8",
+    "bytes": 16,
+    "nn1": 0.937,
+    "top3": 0.9276666666666668,
+    "top10_overlap": 0.3053,
+    "note": "每维 8 位，1%截尾"
+  },
+  {
+    "method": "PCA-64 int8",
+    "bytes": 64,
+    "nn1": 0.918,
+    "top3": 0.91,
+    "top10_overlap": 0.588,
+    "note": "每维 8 位，1%截尾"
+  },
+  {
+    "method": "ITQ-64bit",
+    "bytes": 8,
+    "nn1": 0.925,
+    "top3": 0.92,
+    "top10_overlap": 0.3541,
+    "note": "Hamming 距离"
+  },
+  {
+    "method": "ITQ-128bit",
+    "bytes": 16,
+    "nn1": 0.933,
+    "top3": 0.9306666666666666,
+    "top10_overlap": 0.4665,
+    "note": "Hamming 距离"
+  },
+  {
+    "method": "ITQ-256bit",
+    "bytes": 32,
+    "nn1": 0.94,
+    "top3": 0.9326666666666666,
+    "top10_overlap": 0.5667000000000001,
+    "note": "Hamming 距离"
+  },
+  {
+    "method": "PQ-8x8bit",
+    "bytes": 8,
+    "nn1": 0.934,
+    "top3": 0.9273333333333332,
+    "top10_overlap": 0.38180000000000003,
+    "note": "48 维/段"
+  },
+  {
+    "method": "PQ-16x8bit",
+    "bytes": 16,
+    "nn1": 0.943,
+    "top3": 0.937,
+    "top10_overlap": 0.4925,
+    "note": "24 维/段"
+  },
+  {
+    "method": "PQ-48x8bit",
+    "bytes": 48,
+    "nn1": 0.95,
+    "top3": 0.9343333333333332,
+    "top10_overlap": 0.6945,
+    "note": "8 维/段"
+  }
+]
